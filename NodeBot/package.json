@@ -1,0 +1,31 @@
+{
+  "name": "nodebot",
+  "version": "1.0.0",
+  "description": "Microsoft Bot Framework built with Node JS",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pipgirl/nodebot.git"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "bot",
+    "microsoft",
+    "bot",
+    "framework"
+  ],
+  "author": "Kelsey Huebner, Microsoft",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pipgirl/nodebot/issues"
+  },
+  "homepage": "https://github.com/pipgirl/nodebot#readme",
+  "dependencies": {
+    "botbuilder": "^3.15.0",
+    "restify": "^7.2.0"
+  }
+}
